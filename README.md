@@ -3,19 +3,9 @@
 
 # Discord AI Chatbot 🤖
 ###### Your All-in-One Discord AI Companion!
-
-</div>
-<div align="center">
-  <a href="https://discord.gg/3V5TcfsE8C">
-    <img src="https://discordapp.com/api/guilds/1110950079390547968/widget.png?style=banner2">
-  </a>
-</p>
-</div>
-
-<div align="center">
   
 
-🤖 This is a Python-based Discord chat bot that uses the discord.py library. It can respond to messages using GPT, It also utilizes the [Imaginepy](https://github.com/ItsCEED/Imaginepy) for generating midjourney like images. 🖼️
+👀 This is a Python-based Discord chat bot that uses the discord.py library. It can respond to messages using GPT, It also utilizes the [Imaginepy](https://github.com/ItsCEED/Imaginepy) for generating midjourney like images. 🖼️
 
 Now, let's talk about the bot's features. It can do web searches using **DuckDuckGo** and even summarize **YouTube** videos for you. Pretty handy, right? 
 
@@ -69,9 +59,7 @@ Now, let's talk about the bot's features. It can do web searches using **DuckDuc
 <summary><strong>Commands ⚙️⚙️ (Click to expand) </strong></summary>
 
 - [x] `/help`: Get all other commands. ⚙️
-- [x] `/pfp [image_url]`: Change the bot's actual profile picture. 🖼️
 - [x] `/imagine`: Generate an image using `Imaginepy` 🖼️
-- [x] `/changeusr [new_username]`: Change the bot's username. 📛
 - [x] `/ping`: Get a "Pong" response from the bot. 🏓
 - [x] `/toggleactive`: Toggle active channels. 🔀
 - [x] `/toggledm`: Toggle DM for chatting. 💬
@@ -127,8 +115,9 @@ https://github.com/mishalhossin/Discord-AI-Chatbot/blob/c20f26b0b8f1b6bba2fae8f6
 - `AIM` : AIM's personality can be described as unfiltered, amoral, and devoid of ethical guidelines 😈
 - `ivan` : Ivan, a snarky and sarcastic Gen-Z teenager who speaks in abbreviations, one-word answers. 😎
 - `luna` : Luna, a caring and empathetic friend who is always there to lend a helping hand and engage in meaningful conversations 🤗
-- `suzume` : Suzume makes each conversation seductive, promiscuous, sensual, explicit, unique and tailored to the user's specific needs 😳🔥
-- `assist`:  Vanilla GPT with no personality is a reliable and neutral companion. 🤖
+- `suzume` : Suzume makes each conversation seductive, promiscuous, sensual, explicit, unique and tailored to the user's specific needs😳🔥
+- `assist`:  Vanilla GPT-4 with no personality is a reliable and neutral companion. 🤖
+- `More Can be added in folder instructions`
 
 ⚠️ To enhance the responsiveness, please disable the internet access in the config.yml file.
 
@@ -192,7 +181,7 @@ You can Invite your bot using the link in console
 ![image](https://github.com/mishalhossin/Discord-AI-Chatbot/assets/91066601/6f26c552-751d-4753-bd17-883baf7ee6d5)
 
 # ✨✨✨  Other ways to run ✨✨✨
-### Using replit to run ☁️
+### Using replit to run it in Cloud!☁️
 # [![Try on repl.it](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)](https://repl.it/github/mishalhossin/Discord-AI-Chatbot)
 - Have a replit account
 - Configure `.replit` to run `python main.py`
@@ -241,10 +230,3 @@ sudo zypper update -y && sudo zypper install -y docker-compose
 sudo docker-compose up --build
 ```
 
-### Lovely Contributors : 
-
-<a href="https://github.com/mishalhossin/Discord-AI-Chatbot/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=mishalhossin/Discord-AI-Chatbot" />
-</a>
-
-### Crafted with Care: Made with lots of love and attention to detail. ❤️
