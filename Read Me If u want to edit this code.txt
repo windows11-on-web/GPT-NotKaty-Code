@@ -1,0 +1,7 @@
+if u want an ai using ChatGPT go in instructions folder in this code and edit assist.txt file cuz its startup prompt 
+for ai to know what is model also i buit some other models that u can use like Dan
+
+also make sure to edit the god damn env for token
+
+
+Kat,
