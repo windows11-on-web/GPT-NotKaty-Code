@@ -1,23 +1,14 @@
 
 <div align="center">
 
-# Discord AI Chatbot 🤖
-###### Your All-in-One Discord AI Companion!
+# NotKaty's APIs
+###### Your All-in-One Discord AI Companion! by Kat
   
 
 👀 This is a Python-based Discord chat bot that uses the discord.py library. It can respond to messages using GPT, It also utilizes the [Imaginepy](https://github.com/ItsCEED/Imaginepy) for generating midjourney like images. 🖼️
 
 Now, let's talk about the bot's features. It can do web searches using **DuckDuckGo** and even summarize **YouTube** videos for you. Pretty handy, right? 
 
-<p align="center">
-  <b>❤️ Your donation is vital for the project's future. Thank you for your support.</b>
-</p>
-
-<div align="center">
-  <a href="https://www.patreon.com/mishalhossin">
-    <img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dmishalhossin%26type%3Dpatrons&style=for-the-badge" width="250">
-  </a>
-</div>
 
 
 ## Features and commands 🌟
